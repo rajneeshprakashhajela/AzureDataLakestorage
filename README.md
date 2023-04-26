@@ -28,4 +28,8 @@ go to Getdata
 ![image](https://user-images.githubusercontent.com/43515480/234460880-78b48986-a9be-403e-a644-3dbccb41408c.png)
 ![image](https://user-images.githubusercontent.com/43515480/234460960-83e3e61a-256d-4643-b0b4-f5e27ba69a60.png)
 
+==============
+Azure Data Bricks <br/>
+![image](https://user-images.githubusercontent.com/43515480/234461821-50302fb0-a194-43d4-ad08-37d714346281.png)
+![image](https://user-images.githubusercontent.com/43515480/234461910-d32a86b8-f3d8-4d26-99f0-70cba7307cff.png)
 
